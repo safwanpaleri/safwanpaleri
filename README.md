@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safwan Paleri</h1>
 <h3 align="center">A game enthusiast and a game developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw0WjMIlDKanqCm50e6oJfG-&ust=1696519731978000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjEjdHa3IEDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanpaleri&label=Profile%20views&color=0e75b6&style=flat" alt="safwanpaleri" /> </p>
 

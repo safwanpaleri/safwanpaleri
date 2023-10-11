@@ -9,7 +9,7 @@
 
 - 🌱 I’m always learning more about **game development**
 
-- 👨‍💻 All of my projects are available at [https://safwanpaleri.github.io](https://safwanpaleri.github.io)
+- 👨‍💻 Some of my personal projects are available at [https://safwanpaleri.github.io](https://safwanpaleri.github.io)
 
 - 💬 Ask me about **Game Development, Programming, Data Structure And Algorithm**
 

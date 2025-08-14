@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safwan Paleri</h1>
 <h3 align="center">A game enthusiast and a game developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanpaleri&label=Profile%20views&color=0e75b6&style=flat" alt="safwanpaleri" /> </p>
 
 - 🔭 I’m currently working as an **Unity Developer**
 
